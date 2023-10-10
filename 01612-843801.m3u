@@ -8,21 +8,35 @@
 
 
 
-#EXTINF: -1 tvg-logo="SonyLiv" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="AL-AMIN~🧏", Ban VS NZ
+#EXTINF:-1 group-title="AL-AMIN~🧏",tvg-logo="https://www.btvlive.gov.bd/_next/image?urer%2F1677040358634_BTVogo.png&w=3840&q=75", Live Cricket 🏏 ICC World Cup
 
 https://cdn2.streamcast.xyz:440/cwc1/index.m3u8
 
 
-#EXTINF: -1 tvg-logo="SonyLiv" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="AL-AMIN~🧏",SonyLIV
+
+
+
+
+
+#EXTINF:-1 group-title="AL-AMIN~🧏",tvg-logo="https://2F1677040358634_BTVogo.png&w=3840&q=75", Live Cricket 🏏 ICC World Cup 2
+
+https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/Il97igfQIHGi5mfISuKJ8ELdB8E2U5r6oAtDR24KaRrfzk8RiApRfJlsyZF1UdeSUwEL8YNxABSfCnWgmtevKg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tw_master_dynamic_highlatency.m3u8?type=live
+
+
+
+
+
+
+#EXTINF:-1 group-title="AL-AMIN~🧏",tvg-logo="https://www.btvlive.gov.bd/_next/image?urer%2F1677040358634_BTVogo.png&w=3840&q=75", Live Football ⚽ Man U. VS Arsenal
 
 https://medialive.jiocinema.com/bpk-tv/F22_M1_BengaliHD_DIG_MOB/Fallbac
 
 
-#EXTINF: -1 tvg-logo="SonyLiv" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="AL-AMIN~🧏",SonyLIV
 
-https://medialive.jiocinema.com/bpk-tv/F22_M1_BengaliHD_DIG_MOB/Fallbac
 
-#EXTINF: -1 tvg-logo="SonyLiv" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="AL-AMIN~🧏",SonyLIV
+
+
+#EXTINF:-1 group-title="AL-AMIN~🧏",tvg-logo="https://www.btvlive.gov.bd/_next/image?urer%2F1677040358634_BTVogo.png&w=3840&q=75", Live Football ⚽ FCB VS PSG
 
 https://medialive.jiocinema.com/bpk-tv/F22_M1_BengaliHD_DIG_MOB/Fallbac
 
