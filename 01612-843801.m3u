@@ -8,28 +8,28 @@
 
 
 
-#EXTINF:-1 group-title="AL-AMIN~🧏" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3d38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1677040358634_BTVogo.png&w=3840&q=75", Shurongo HD
+#EXTINF:-1 group-title="AL-AMIN~🧏" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3d38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1677040358634_BTVogo.png&w=3840&q=75", ARG 🆚 BRA (Full-HD)
 
 https://v-prothomalo.viewlift.com/Renditions/20230824/1692873478931_prothomalo_1692870834947_surongo_CUSTOM_CODEC_TS/hls/video_3.m3u8
 
 
 
-#EXTINF:-1 group-title="AL-AMIN~🧏" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3d38ll44lbmt52p.cloudfront.net%2Fcms%2Fchoster%2F1677040358634_BTVogo.png&w=3840&q=75", Priyotoma HD
+#EXTINF:-1 group-title="AL-AMIN~🧏" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3d38ll44lbmt52p.cloudfront.net%2Fcms%2Fchoster%2F1677040358634_BTVogo.png&w=3840&q=75", ARG 🆚 BRA (Low)
 
-https://fifabangladesh.tk/IPTV/xx.php?id=1798
-
-
-
-#EXTINF:-1 group-title="AL-AMIN~🧏" tvg-logo="https://www.btvlive.gov.bd/_nexge?url=https%3d38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1677040358634_BTVogo.png&w=3840&q=75", Club Football
-
-https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/master_mdh.m3u8?hdnea=st=1695237667~exp=1695237967~acl=*~id=528511f6-4ba0-4956-a7ef-0f0e5fef0d6a~hmac=69a3d8d0e0eac817b89a8aff75e1ee3d287444720dabd7c984f68d1947468a61&originpath=/linear/hls/pb/event/b4syULaIS9uJBor6MB0Gcg/stream/19c80772-7ee6-4d19-a4d4-378d4946776e:SIN/master.m3u8
+https://live.himel-himu@1rdk.short.gy/SSC-1-HD/hls/Himel-Op.m3u8?|Referer=https://huffedpleuch.in/
 
 
 
+#EXTINF:-1 group-title="AL-AMIN~🧏" tvg-logo="https://www.btvlive.gov.bd/_nexge?url=https%3d38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1677040358634_BTVogo.png&w=3840&q=75", ARG 🆚 BRA (Auto)
 
-#EXTINF:-1 group-title="AL-AMIN~🧏" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3d38ll44lbmt52p.cloudfront.net%2Fcms%2nnel_poster%2F1677040358634_BTVogo.png&w=3840&q=75", Club Football 2
+http://50.7.137.106:8080/SPORT_TV_1/index.m3u8?token=test
 
-https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8
+
+
+
+#EXTINF:-1 group-title="AL-AMIN~🧏" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3d38ll44lbmt52p.cloudfront.net%2Fcms%2nnel_poster%2F1677040358634_BTVogo.png&w=3840&q=75", ARG 🆚 BRA (Auto)
+
+https://live.himel-himu@1rdk.short.gy/SporTV/hls/Himel-Op.m3u8?|Referer=https://futebolplayhd.com
 
 
 
@@ -375,6 +375,7 @@ https://tempe.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 
 
 
+
 #EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://cdn.aliflailabd.com/tv/images/etv.png", Ekusey TV
 
 https://ekusheyserver.com/etvlivesn.m3u8
@@ -408,7 +409,7 @@ http://iptv.mcnbd.com:8080/GaziTV/tracks-v1a1/mono.m3u8?token=16149e247d68f151de
 
 #EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://www.jagobd.com/wp-content/uploads/2021/11/globaltv.jpg?x50681", Global TV
 
-https://tvs1.aynaott.com/globaltvhd/tracks-v1a1/mono.m3u8?hdnts=st=1700469297~exp=1700512497~acl=/*~data=45.61.146.183-WEB~hmac=56b550f499ad3640c393b1df324b404aa85cf01dd676b62a6e5b31d28ec4a07b
+http://tv.iplex.live:9191/global-tv/tracks-v1/index.fmp4.m3u8?token=000c4f6b2a6b30ef8deba4a34e0f7c2ffc5be9d2-f7277929ffe4a46155342937aee673c5-1693526117-1693522517
 
 
 
