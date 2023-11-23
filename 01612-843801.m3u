@@ -962,9 +962,9 @@ https://restv4-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/p
 
 #EXTINF:-1 group-title="Documentary~🌏" tvg-logo="https://lapublicidad.net/wp-content/uploads/2017/01/Discovery_Channel_International.jpg",Discovery (Bangla)
 
-https://mhdtvworld.me/delta/discovery/api/Discovery_Bangla.m3u8
+#https://mhdtvworld.me/delta/discovery/api/Discovery_Bangla.m3u8
 
-#https://cdn2.aliflailabd.com/discovery/tracks-v1a1/mono.m3u8?token=d7c4ef9b764041440b66589e8787e4fd64b19872-ebd77e87fc7bf883c52a791cc68ce1f7-1694633090-1694629490
+https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
 
 
 
