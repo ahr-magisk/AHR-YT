@@ -20,9 +20,9 @@ http://41.205.93.154/STARSPORTS1/index.m3u8
 
 
 
-#EXTINF:-1 group-title="AL-AMIN~🧏" tvg-logo="https://www.btvlive.gov.bd/_nexge?url=https%3d38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1677040358634_BTVogo.png&w=3840&q=75", ARG 🆚 BRA (Auto)
+#EXTINF:-1 group-title="AL-AMIN~🧏" tvg-logo="https://www.btvlive.gov.bd/_nexge?url=https%3d38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1677040358634_BTVogo.png&w=3840&q=75", IND 🆚 AUS (Auto)
 
-http://50.7.137.106:8080/SPORT_TV_1/index.m3u8?token=test
+https://hls.streambtw.com/live/stream_e1.m3u8
 
 
 
