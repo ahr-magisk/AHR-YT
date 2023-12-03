@@ -84,7 +84,7 @@ https://tvs1.aynaott.com/btvctg/index.m3u8?hdnts=st=1701546273~exp=1701589473~ac
 
 #EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://dl.dropbox.com/s/40yvi62wy59gu3r/sangsad_tv_bd.png", Sangsad TV
 
-https://tvs1.aynaott.com/sangshadtv/index.m3u8?hdnts=st=1701546193~exp=1701589393~acl=/*~data=45.61.146.183-WEB~hmac=34b3e8f3ddf098717afa72ee73929a4a0aa6290ea0a06afa32859b217aa3ba82
+https://tvs1.aynaott.com/sangshadtv/tracks-v1a1/mono.m3u8?hdnts=st=1701592569~exp=1701635769~acl=/*~data=45.61.146.183-WEB~hmac=2d2fd8c89aba2e2dda2c62ec11b77448f7b4d362f2222e27fa51e6166d5aea70
 
 
 
@@ -235,7 +235,7 @@ https://tempe.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 
 https://tempe.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/playlist.m3u8
 
-http://tv.iplex.live:9191/Channel-9/index.fmp4.m3u8?token=b740ccbe5246ef4bde4c6fcd1dd467c65cda673f-3d32dcd3fbb9933896135667d14d85b0-1693522997-1693519397
+https://tvs1.aynaott.com/channel9/tracks-v1a1/mono.m3u8?hdnts=st=1701592402~exp=1701635602~acl=/*~data=45.61.146.183-WEB~hmac=bfed15179814271c434498beac620aea4280d122e42f0e2c2bbb5c109bef6717
 
 
 
@@ -406,8 +406,9 @@ http://stream.medialink24.net:9191/gaanbangla/tracks-v1a1/mono.m3u8?token=50714d
 
 #EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://cdn.aliflailabd.com/tv/images/gtv.png", Gazi TV HD
 
-http://iptv.mcnbd.com:8080/GaziTV/tracks-v1a1/mono.m3u8?token=16149e247d68f151deac2573c8b88c2242a01af6-eb9b23b3a254b66152d40ecd2f46d5ea-1695289042-1695278242
+#http://iptv.mcnbd.com:8080/GaziTV/tracks-v1a1/mono.m3u8?token=16149e247d68f151deac2573c8b88c2242a01af6-eb9b23b3a254b66152d40ecd2f46d5ea-1695289042-1695278242
 
+https://tvs1.aynaott.com/gtvhdforgame/tracks-v1a1/mono.m3u8?hdnts=st=1701592459~exp=1701635659~acl=/*~data=45.61.146.183-WEB~hmac=201dda1af1e52f622ed04255baa75205319996601a870e5c71de1344ac35ec3c
 
 
 
@@ -756,7 +757,7 @@ https://tempe.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJ3lz_PuTSlPs2dZNN54E9LrPeWSs9x7AA&usqp=CAU", T Sports
 
-https://live.tsports.com/?bitrate=1024000&channel=tsports_live_1080&res=1080
+https://tvs1.aynaott.com/tsportsfhd/tracks-v1a1/mono.m3u8?hdnts=st=1701592515~exp=1701635715~acl=/*~data=45.61.146.183-WEB~hmac=7e4363b97f5bbb59e6dcbf516327ee0c23826d8abff87d7421ba069c579c34a7
 
 
 
