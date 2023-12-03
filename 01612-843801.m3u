@@ -67,14 +67,16 @@ http://103.230.105.252:1935/live/btv/manifest.m3u8-48aa-adcf-5a6c64da8c5c_3_play
 
 #https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1302.ts
+https://tvs1.aynaott.com/btv_world/index.m3u8?hdnts=st=1701546236~exp=1701589436~acl=/*~data=45.61.146.183-WEB~hmac=828194c70a7f9ca06791d2f3252347a4906eb2b73170738656eb13be49176f7a
 
 
 
 
 #EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1676193167149_3.png&w=3840&q=75", BTV CTG
 
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8
+#https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8
+
+https://tvs1.aynaott.com/btvctg/index.m3u8?hdnts=st=1701546273~exp=1701589473~acl=/*~data=45.61.146.183-WEB~hmac=3007fe1728955ba6488083e648662acebd06574ebde98872333c17e077b40f20
 
 
 
@@ -82,7 +84,7 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 
 #EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://dl.dropbox.com/s/40yvi62wy59gu3r/sangsad_tv_bd.png", Sangsad TV
 
-http://stream.medialink24.net:9191/sangsad-tv/index.m3u8?token=99242e4a1c791cf46de44abb5a2557da24bd84cd-0a1cf4c2b2fe86a7e4d4b10ec7c72e0f-1683493501-1683482701
+https://tvs1.aynaott.com/sangshadtv/index.m3u8?hdnts=st=1701546193~exp=1701589393~acl=/*~data=45.61.146.183-WEB~hmac=34b3e8f3ddf098717afa72ee73929a4a0aa6290ea0a06afa32859b217aa3ba82
 
 
 
@@ -412,7 +414,7 @@ http://iptv.mcnbd.com:8080/GaziTV/tracks-v1a1/mono.m3u8?token=16149e247d68f151de
 
 #EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://www.jagobd.com/wp-content/uploads/2021/11/globaltv.jpg?x50681", Global TV
 
-http://tv.iplex.live:9191/global-tv/tracks-v1/index.fmp4.m3u8?token=000c4f6b2a6b30ef8deba4a34e0f7c2ffc5be9d2-f7277929ffe4a46155342937aee673c5-1693526117-1693522517
+https://tvs1.aynaott.com/globaltvhd/index.m3u8?hdnts=st=1701546057~exp=1701589257~acl=/*~data=45.61.146.183-WEB~hmac=7d44f9693bdd68522d45d0810e20b1d6443155f208ff7a91250a901e7a68c650
 
 
 
@@ -967,9 +969,9 @@ https://restv4-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/p
 
 #EXTINF:-1 group-title="Documentary~🌏" tvg-logo="https://lapublicidad.net/wp-content/uploads/2017/01/Discovery_Channel_International.jpg",Discovery (Bangla)
 
-#https://mhdtvworld.me/delta/discovery/api/Discovery_Bangla.m3u8
+https://watchmhdtv.com/delta/discovery/api/Discovery_Bangla.m3u8
 
-https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
+#https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
 
 
 
@@ -979,21 +981,21 @@ https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
 
 #EXTINF:-1 group-title="Documentary~🌏" tvg-logo="https://alloforfait.fr/wp-content/uploads/2014/05/National-geographic-Channel-300x156.jpg", Nat Geo (Bangla)
 
-https://cdn2.aliflailabd.com/natgeo-in/index.m3u8?token=ecfb8b8a4155f291a813d8d3aba124de563f52dc-b07bfbddfc66667b65d1aea1e65e261d-1695229049-1695225449
+http://stream.medialink24.net:9191/Nat-Geo-HD/video.m3u8?token=rqIwQB1Aod9Br3
 
 
 
 
 #EXTINF:-1 group-title="Documentary~🌏" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdxKXaCY--KypcvvzQkzYcbHrD9HP4RWQUjA&usqp=CAU",Travel XP (Bangla)
 
-http://stream.medialink24.net:9191/travel-xp/index.m3u8?token=656847ed765396c7f960c657502f5304d9ed9a12-2951aa1f5a32432787aca07917f82416-1695067229-1695056429
+http://stream.medialink24.net:9191/travel-xp/index.m3u8
 
 
 
 
 #EXTINF:-1 group-title="Documentary~🌏" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy1PLC4-iy_ddi6_29vk38VrxVaRev1XNxuQ&usqp=CAU",Nat Geo Wild
 
-http://stream.medialink24.net:9191/natgeo-wild/tracks-v1a1/mono.m3u8?token=15c826b9c71f9cf7d73375c43b3c4d0dd562794c-10bb5fc94cc2beda210f3205e588398a-1695067198-1695056398
+http://stream.medialink24.net:9191/nat-geo-wild/video.m3u8?token=rqIwQB1Aod9Br3
 
 
 
